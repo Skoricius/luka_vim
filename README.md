@@ -2,4 +2,4 @@
 
 # The Ultimate vimrc
 
-Just a clone of https://github.com/amix/vimrc with a few of my own configuration.
+Just a clone of https://github.com/amix/vimrc with a few of my own configurations.
